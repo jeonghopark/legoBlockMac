@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getC",
+				"getColor(int x, int y) const	ofColor_<PixelType>"
+			],
+			[
+				"get",
+				"getHeight()	float"
+			],
+			[
+				"cap",
+				"captureVideo	ofVideoGrabber"
+			],
+			[
+				"ge",
+				"getWidth()	float"
+			],
+			[
+				"legoPic",
+				"legoPicWidth	int"
+			],
+			[
+				"cam",
+				"camWidth	int"
+			],
+			[
+				"lego",
+				"legoPicHeight	int"
+			],
+			[
+				"ofPush",
+				"ofPushStyle()	void"
+			],
+			[
+				"draw",
+				"draw(float x, float y)	void"
+			],
+			[
+				"ofRect",
+				"ofRect(float x1, float y1, float w, float h)	void"
+			],
+			[
+				"ofGetW",
+				"ofGetWidth()	int"
+			],
+			[
+				"fa",
+				"false	macro"
+			],
+			[
+				"thi",
+				"thirdStep	int"
+			],
+			[
+				"sc",
+				"secondStep	int"
+			],
+			[
+				"th",
+				"thirdStep	int"
+			],
+			[
+				"sec",
+				"secondStep	int"
+			],
+			[
+				"s",
+				"secondStep	int"
+			],
+			[
+				"first",
+				"firstStep	int"
+			]
+		]
+	},
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"SublimeClang",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Subli",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeonghopark/Projects/legoBlockVideo/legoBlockVideo/src/ofApp.h",
+		"/Users/jeonghopark/Projects/legoBlockVideo/legoBlockVideo/src/ofApp.cpp",
+		"/Users/jeonghopark/Projects/legoBlockVideo/legoBlockVideo/src/main.cpp",
+		"/Users/jeonghopark/Projects/legoBlockVideo/legoBlockVideo/backGroundRemove.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+		"/Users/jeonghopark/openFrameworks/examples/utils/dragDropExample/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/examples/utils/dragDropExample/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworks/examples/video/asciiVideo/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/examples/video/asciiVideo/src/ofApp.h",
+		"/Users/jeonghopark/Projects/legoBlockVideo/legoBlockVideo/OFProject.sublime-project",
+		"/Users/jeonghopark/Projects/legoBlockVideo/legoBlockVideo/Makefile",
+		"/Users/jeonghopark/openFrameworksApps/testAddons/svgExample/Makefile",
+		"/Users/jeonghopark/Projects/backGroundRemove/backGroundRemove/Makefile",
+		"/Users/jeonghopark/openFrameworks/examples/empty/emptyExample/src/ofApp.cpp",
+		"/private/var/folders/6r/h3zyz_2921q5q13sfpnh5mh40000gn/T/OFProject.sublime-project",
+		"/Users/jeonghopark/openFrameworksApps/mesh_Fomular/mesh_Fomular/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworksApps/mesh_Fomular/mesh_Fomular/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworksApps/ofxCoreImage/Core_Image_Testing/Makefile",
+		"/Users/jeonghopark/openFrameworksApps/regularExpressionExample/regularExpressionExample/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworksApps/regularExpressionExample/regularExpressionExample/addons.make",
+		"/Users/jeonghopark/openFrameworksApps/ofxCoreImage/Core_Image_Testing/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/examples/empty/emptyExample/Makefile",
+		"/Users/jeonghopark/openFrameworks/examples/empty/emptyExample/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworks/examples/empty/emptyExample/OFProject.sublime-project",
+		"/Users/jeonghopark/Library/Application Support/Sublime Text 2/Packages/User/openFrameworks.sublime-build",
+		"/Users/jeonghopark/openFrameworks/examples/graphics/simpleColorKeycopy/Makefile",
+		"/Users/jeonghopark/Library/Application Support/Sublime Text 2/Packages/User/untitled.sublime-build",
+		"/Users/jeonghopark/openFrameworks/examples/graphics/simpleColorKeycopy/src/ofApp.cpp",
+		"/Users/jeonghopark/Library/Application Support/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/Users/jeonghopark/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jeonghopark/openFrameworks/examples/graphics/simpleColorKeycopy/src/main.cpp",
+		"/Users/jeonghopark/openFrameworks/examples/graphics/simpleColorKeycopy/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworks/libs/openFrameworks/ofMain.h",
+		"/Users/jeonghopark/openFrameworks/examples/graphics/simpleColorKey copy/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/examples/video/videoGrabberExample/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/examples/video/videoGrabberExample/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworks/addons/ofxTuio/example/main.cpp",
+		"/Users/jeonghopark/openFrameworks/addons/ofxTuio/example/testApp.h",
+		"/Users/jeonghopark/openFrameworks/addons/ofxTuio/example/testApp.cpp",
+		"/Users/jeonghopark/Projects/installationLaboratory_SS2014/videoPlayerExample/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/apps/schiffMosel/schiffMosel/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/apps/test/videoPlayerExample/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/apps/empty/emptyExample/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworks/apps/empty/emptyExample/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworksApps/synthStudy/FM_01/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworksApps/synthStudy/FM_01/src/ofApp.cpp",
+		"/Users/jeonghopark/Desktop/nirgendwo.in.afrika.(2001).ger.2cd.(3845968).zip Ordner/nirgendwo.in.afrika.txt",
+		"/Users/jeonghopark/Desktop/nirgendwo.in.afrika.(2001).ger.2cd.(3845968).zip Ordner/Nirgendwo.In.Africa.2001.LIMITED.DVDRip.DivX.CD1-QiX.Deutsch.srt",
+		"/Users/jeonghopark/Desktop/nirgendwo.in.afrika.(2001).ger.2cd.(3845968).zip Ordner/Nirgendwo.In.Africa.2001.LIMITED.DVDRip.DivX.CD2-QiX.Deutsch.srt",
+		"/Users/jeonghopark/Projects/contourDrawingIOS/contourDrawing/src/ofApp.h",
+		"/Users/jeonghopark/Library/Caches/Cleanup At Startup/Transmit/4219E297-08D7-40D4-B2C9-72F122DC393F/style.css",
+		"/Users/jeonghopark/Library/Caches/Cleanup At Startup/Transmit/BFF378E2-E270-4B2A-BAC1-5F3B113CFB60/style.css",
+		"/Users/jeonghopark/openFrameworksApps/synthStudy/FM_polyphonic/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworksApps/synthStudy/simpleInputReverb/src/ofApp.cpp",
+		"/Users/jeonghopark/openFrameworksApps/synthStudy/ofxTonic-Github/Tonic-master/examples/Demo Synths/ReverbTestSynth.cpp",
+		"/Users/jeonghopark/Desktop/ofApp.cpp",
+		"/Users/jeonghopark/Projects/pixelBinarySynth/translateIOS/src/ofApp.mm",
+		"/Users/jeonghopark/openFrameworksApps/ofxMacamPs3Eye/example/src/testApp.h",
+		"/Users/jeonghopark/openFrameworksApps/ofxMacamPs3Eye/example/src/testApp.cpp",
+		"/Users/jeonghopark/Projects/openFrameworksWorkshop/of_workshop_plakat/of_workshop_plakat/src/main.cpp",
+		"/Users/jeonghopark/openFrameworks/examples/3d/3DPrimitivesExample/src/ofApp.h",
+		"/Users/jeonghopark/Desktop/The Secret Life of Walter Mitty/The.Secret.Life.of.Walter.Mitty.2013.720p.BluRay.PFT.smi",
+		"/Users/jeonghopark/openFrameworks/examples/empty/emptyExample/emptyExample.sublime-project",
+		"/Users/jeonghopark/openFrameworks/examples/empty/emptyExample/emptyExample.sublime-workspace",
+		"/Users/jeonghopark/Desktop/test/emptyExample.sublime-project",
+		"/Users/jeonghopark/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jeonghopark/openFrameworks/examples/empty/emptyExample/src/main.cpp",
+		"/Users/jeonghopark/Projects/scriptSynthApp/scriptSynthApp/src/ofApp.h",
+		"/Users/jeonghopark/Projects/scriptSynthApp/scriptSynthApp/src/ofApp.mm",
+		"/Users/jeonghopark/Documents/movingMeshiOS/movingMesh/src/ofApp.mm",
+		"/Users/jeonghopark/Documents/movingMeshiOS/movingMesh/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworks/addons/ofxFft/src/ofxFft.cpp",
+		"/Users/jeonghopark/Desktop/src_PathMoving_Before_887eafc31063de4537ca583d42fb125de97877c5.h",
+		"/Users/jeonghopark/Desktop/src_PathMoving_Before_887eafc31063de4537ca583d42fb125de97877c5.cpp",
+		"/private/var/folders/6r/h3zyz_2921q5q13sfpnh5mh40000gn/T/src_M2Winter_Before_2c533e64c69d91ad2d656fb1b4568c126ecd2fcb.h",
+		"/private/var/folders/6r/h3zyz_2921q5q13sfpnh5mh40000gn/T/src_M2Winter_Before_2c533e64c69d91ad2d656fb1b4568c126ecd2fcb.mm",
+		"/private/var/folders/6r/h3zyz_2921q5q13sfpnh5mh40000gn/T/src_M3Summer_Before_2c533e64c69d91ad2d656fb1b4568c126ecd2fcb.h",
+		"/private/var/folders/6r/h3zyz_2921q5q13sfpnh5mh40000gn/T/src_M3Summer_Before_2c533e64c69d91ad2d656fb1b4568c126ecd2fcb.mm",
+		"/Users/jeonghopark/openFrameworksApps/ofxFft-master/example-basic/src/testApp.h",
+		"/Users/jeonghopark/openFrameworksApps/ofxFft-master/example-basic/src/testApp.cpp",
+		"/Users/jeonghopark/openFrameworksApps/ofxFft-master/example-basic/src/main.cpp",
+		"/Users/jeonghopark/openFrameworksApps/emptyiOS/emptyExample/src/ofApp.h",
+		"/Users/jeonghopark/openFrameworksApps/emptyiOS/emptyExample/src/ofApp.mm",
+		"/Users/jeonghopark/openFrameworksApps/emptyiOS/emptyExample/src/main.mm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"j",
+			"i",
+			"_index",
+			"legoSize",
+			"testApp",
+			"Size.y );}",
+			"0, 0, 800, 500 );",
+			"0, 0, 1530, 1080 );}",
+			"myMovie2",
+			"c>",
+			"c=",
+			"b>",
+			"b",
+			"B",
+			"b",
+			"c==",
+			"b=",
+			"b==",
+			"a!",
+			"a=",
+			"a==",
+			"map_mos",
+			"map_haf",
+			"map_schiff",
+			"map_faehr",
+			"map_faehr1",
+			"map_faehr",
+			"map_half",
+			"offscreen_2.image(",
+			"myMovie2.stop();",
+			"mos",
+			"haf",
+			"schiff",
+			"faehr",
+			"half",
+			"offscreen_1.",
+			"if",
+			"kneipe",
+			"mart",
+			"wass",
+			"barb",
+			"hauptzoll",
+			"pet",
+			"rom",
+			"{offscreen_1",
+			"mouseY",
+			"mouseX",
+			"mouseY",
+			"mouseX",
+			" = ",
+			" = loadImage",
+			"0, 0, 800, 500",
+			"myMovie2.jump(0.0);",
+			"myMovie.stop();",
+			"-->",
+			"00:",
+			"00:00:42,080 --> 00:00:46,080",
+			"00:",
+			"0 20",
+			"0 10",
+			"0 20",
+			"0 15",
+			"site",
+			"site-title",
+			"header",
+			"masthead",
+			"header",
+			"masthead",
+			"site-header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 94.0
+	},
+	"output.clang_static_analyzer":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jeonghopark/Desktop/emptyExample/emptyExample.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}

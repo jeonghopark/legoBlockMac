@@ -1,0 +1,42 @@
+{
+	"folders":
+	[
+		{
+			"path": "/"
+		},
+		{
+			"path": "/Users/jeonghopark/openFrameworks/libs/openFrameworks"
+		}
+	],
+	"settings":
+	{
+		"add_language_option": true,
+		"additional_language_options":
+		{
+			"c":
+			[
+			],
+			"c++":
+			[
+				"-std=c++11"
+			],
+			"objc":
+			[
+			],
+			"objc++":
+			[
+			]
+		},
+		"sublimeclang_enable_fast_completions": true,
+		"sublimeclang_options":
+		[
+			"-Wno-deprecated-declarations",
+			"-Isystem",
+			"-I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/",
+			"-I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/c++/4.2.1/",
+			"-I/Users/jeonghopark/openFrameworks/libs/**",
+			"-I/Users/jeonghopark/openFrameworks/addons/**",
+			"-I${folder:${project_path:OFProject.sublime-project}}/src/**"
+		]
+	}
+}

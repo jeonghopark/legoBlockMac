@@ -3,9 +3,9 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     
-        ofSetDataPathRoot("../Resources/data/");
+    ofSetDataPathRoot("../Resources/data/");
     
-    ofBackground(30);
+    ofBackground(10);
     ofSetFrameRate(60);
     ofSetVerticalSync(true);
     
@@ -105,10 +105,17 @@ void ofApp::update(){
 
 void ofApp::draw(){
     
-    legoPlatte.draw(0, 0);
+    //    legoPlatte.draw(0, 0);
     
     //    if (pixelColorR.size()>0) {
-    ofScale(3, 3);
+    
+    float _size = 3;
+    
+    float _x = ofGetWidth() * 0.5 - legoPicWidth * legoSize * _size * 0.5;
+    float _y = ofGetHeight() * 0.5 - legoPicHeight * legoSize * _size * 0.5;
+    ofTranslate( _x, _y );
+    
+    
     for (int j = 0; j < legoPicHeight; j++){
         for (int i = 0; i < legoPicWidth; i++){
             
@@ -116,7 +123,7 @@ void ofApp::draw(){
             
             ofPushStyle();
             ofSetColor( ofColor(pixelColorR[_index], pixelColorG[_index], pixelColorB[_index], 255) );
-            legoWhite.draw(i*legoSize, j*legoSize, legoSize, legoSize);
+            legoWhite.draw(i*legoSize * _size, j*legoSize * _size, legoSize * _size, legoSize * _size);
             ofPopStyle();
         }
     }
@@ -127,9 +134,9 @@ void ofApp::draw(){
             int _index = i + j*legoPicWidth;
             
             ofPushStyle();
-            ofSetColor( pixelColorG[(legoPicHeight*legoPicWidth)-_index], 30 );
-            ofLine(i*legoSize, j*legoSize, i*legoSize, j*legoSize+legoSize);
-            ofLine(i*legoSize, j*legoSize, i*legoSize+legoSize, j*legoSize);
+            ofSetColor( pixelColorG[(legoPicHeight*legoPicWidth)-_index], 10 );
+            ofLine(i*legoSize * _size, j*legoSize * _size, i*legoSize * _size, j*legoSize+legoSize * _size);
+            ofLine(i*legoSize * _size, j*legoSize * _size, i*legoSize+legoSize * _size, j*legoSize * _size);
             ofPopStyle();
         }
     }

@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     
-//    ofSetDataPathRoot("../Resources/data/");
+    ofSetDataPathRoot("../Resources/data/");
     
     ofBackground(30);
     ofSetFrameRate(60);
@@ -12,7 +12,7 @@ void ofApp::setup(){
     legoWhite.loadImage("legoWhite_4.png");
     legoPlatte.loadImage("legoPlatte.jpg");
     
-    legoSize = 10;
+    legoSize = 20;
     legoPixelsNumber = legoSize * legoSize;
     
 }
